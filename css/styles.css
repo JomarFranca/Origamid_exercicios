@@ -1,0 +1,14 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 20px;
+    font-family: Arial, 'Arial Narrow', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
